@@ -22,7 +22,7 @@
 
 echo "------------------------------------------------"
 echo "LANUGUAGE : 한국어"
-echo "cubebone kernel 컴파일 스크립"트
+echo "cubebone kernel 컴파일 스크립트"
 echo "SHW-M250S - UG26"
 sleep 5
 echo "------------------------------------------------"
